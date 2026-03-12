@@ -9,13 +9,13 @@ To create a new lab assignment in the AI First 2026 GitHub Classroom, follow the
 3. Name the repository according to the assignment (e.g., `lab-1` or `ovn-1`)
 4. Set the repository to **Private**
   - this will stop students from seeing the repo and potentially changing it
-6. In **Start with a template** and select `dd1318-ai-first/mll-agent`
+5. In **Start with a template**, select `dd1318-ai-first/mll-agent`
   - this will setup the MLL agent in the correct way and is highly recommended
-7. Click **Create reposistory**
-8. In the repo **Settings**, check the **Template repository** option (immediately below the **Repository name** field)
+6. Click **Create reposistory**
+7. In the repo **Settings**, check the **Template repository** option (immediately below the **Repository name** field)
   - this is needed to create a Classroom assignment
-9. **Edit** the README file to include your instructions for the assignment
-10. OBS! The MLL Agent is added by default by using the template in step 5 (you can confirm this by observing a `.github/agents` folder in the repo files)
+8. **Edit** the README file to include your instructions for the assignment
+9. OBS! The MLL Agent is added by default by using the template in step 5 (you can confirm this by observing a `.github/agents` folder in the repo files)
 
 ## Create the Assignment in GitHub Classroom
 
